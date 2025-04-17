@@ -29,7 +29,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sunilkumar-Bhoi/farm-mentor.git
+git clone https://github.com/Sunilkumar-Bhoi/Farm-Mentor.git
 cd farm-mentor
 ```
 
