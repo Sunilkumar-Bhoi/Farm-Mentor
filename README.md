@@ -48,6 +48,13 @@ python manage.py runserver
 Visit `http://127.0.0.1:8000` to view the app in your browser.
 
 ---
+## 📸 Screenshots
+**Home Page**
+![image](https://github.com/user-attachments/assets/36374c26-c16a-4586-afcf-919f5225ccdc)
+
+**Crop Suggestion**
+![image](https://github.com/user-attachments/assets/083c5ed5-ad40-40f2-b19a-524d33bf01b8)
+
 
 ## 🤝 Team Members
 
