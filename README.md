@@ -9,7 +9,6 @@
 - 🌾 **AI-based Crop Suggestions** – Get intelligent recommendations tailored to weather, soil, and crop data.
 - 💬 **Multilingual Chatbot Support** – Available in Gujarati, Marathi, English, Kannada, and Telugu.
 - 📊 **Expense Tracker with Visual Insights** – Helps farmers manage budgets and analyze spending.
-- 🌐 **Localized User Experience** – Region-specific customization for better relevance and usability.
 
 ---
 
@@ -30,5 +29,34 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sunilkumar-Bhoi/Farm-Mentor.git
+git clone https://github.com/yourusername/farm-mentor.git
 cd farm-mentor
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Development Server
+
+```bash
+python manage.py runserver
+```
+
+Visit `http://127.0.0.1:8000` to view the app in your browser.
+
+---
+
+## 🤝 Team Members
+
+- **Modi Yatri** – [LinkedIn](https://linkedin.com/in/yatri-modi-607825315)
+- **Sunilkumar Bhoi** – [LinkedIn](https://linkedin.com/in/sunilbhoi)
+
+---
+
+## 📬 Contact
+
+For inquiries or collaboration, reach out at **[bhois0648@gmail.com](mailto:bhois0648@gmail.com)**
+
