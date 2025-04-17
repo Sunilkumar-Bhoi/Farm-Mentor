@@ -21,13 +21,7 @@
 | Frontend        | TailwindCSS, HTML                         |
 | AI Integration  | LLaMA API                                 |
 | APIs Used       | Crop Suggestion API, Translation APIs     |
-| Other Tools     | Git, VS Code, Postman                     |
-
----
-
-## 📸 Screenshots
-
-> _Add screenshots here to visually showcase key features._
+| Other Tools     | Git, VS Code                              |
 
 ---
 
@@ -36,5 +30,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/farm-mentor.git
+git clone https://github.com/Sunilkumar-Bhoi/Farm-Mentor.git
 cd farm-mentor
